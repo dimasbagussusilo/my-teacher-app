@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .hide-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}
+
+/* Global base styles */
+body {
+  @apply font-sans antialiased text-gray-800 m-0 min-w-[320px] min-h-screen;
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  @apply scroll-smooth;
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  @apply outline-2 outline-blue-600 outline-offset-2;
+}
+
+/* Transition for all interactive elements */
+a, button, input, textarea {
+  @apply transition-all duration-200;
+}

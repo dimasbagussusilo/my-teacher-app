@@ -1,0 +1,171 @@
+{
+  "seo": {
+    "title": "Jane Doe - English Teacher in Cibinong",
+    "description": "Professional English teacher offering personalized lessons in conversation, business English, and exam preparation in Cibinong, West Java.",
+    "keywords": "English teacher, English lessons, Cibinong, West Java, IELTS preparation, TOEFL preparation, business English"
+  },
+  "navbar": {
+    "logo": {
+      "text": "Jane Doe",
+      "subtext": "English Teacher"
+    },
+    "links": [
+      { "text": "Home", "href": "#home" },
+      { "text": "About", "href": "#about" },
+      { "text": "Services", "href": "#services" },
+      { "text": "Testimonials", "href": "#testimonials" },
+      { "text": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "heading": "Unlock Your English Potential",
+    "description": "Personalized English lessons designed to help you communicate confidently and fluently. Based in Cibinong, West Java, Indonesia, offering online lessons globally.",
+    "ctaButton": "Book a Free Consultation",
+    "image": {
+      "src": "https://placehold.co/150x150/EBF4FF/4A90E2?text=Teacher",
+      "alt": "Jane Doe - English Teacher"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "image": {
+      "src": "https://placehold.co/600x400/EBF4FF/4A90E2?text=Teaching+Scene",
+      "alt": "Teaching English"
+    },
+    "paragraphs": [
+      "Hello! I'm Jane Doe, a passionate and experienced English teacher dedicated to helping students achieve their language goals. With over [Number] years of teaching experience, I specialize in [mention specializations like Conversational English, Business English, Exam Prep - IELTS/TOEFL].",
+      "My teaching philosophy centers around creating a supportive and engaging learning environment where students feel comfortable practicing and making mistakes. I believe in tailoring lessons to individual needs and learning styles, using a variety of methods and resources to make learning effective and enjoyable.",
+      "Originally from [Your Origin, if different], I am now based in Cibinong, West Java. I hold a [Your Degree/Certification, e.g., CELTA, TEFL certificate, Master's in TESOL] and continuously strive to improve my teaching techniques. Let's embark on this learning journey together!"
+    ],
+    "ctaButton": "Explore My Services"
+  },
+  "services": {
+    "heading": "My Services",
+    "items": [
+      {
+        "icon": "MessageSquare",
+        "title": "Conversational English",
+        "description": "Improve your fluency, pronunciation, and confidence in everyday conversations.",
+        "price": "$25/hour",
+        "features": [
+          "Natural speaking practice",
+          "Pronunciation correction",
+          "Vocabulary building",
+          "Cultural context discussions"
+        ],
+        "popular": true
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Business English",
+        "description": "Enhance your professional communication skills for meetings, presentations, and emails.",
+        "price": "$30/hour",
+        "features": [
+          "Email and report writing",
+          "Presentation skills",
+          "Meeting vocabulary",
+          "Negotiation practice"
+        ]
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Exam Preparation",
+        "description": "Get ready for IELTS, TOEFL, or other English proficiency exams with targeted strategies.",
+        "price": "$35/hour",
+        "features": [
+          "Test-taking strategies",
+          "Practice with past papers",
+          "Score improvement techniques",
+          "Personalized study plans"
+        ]
+      },
+      {
+        "icon": "User",
+        "title": "Personalized Tutoring",
+        "description": "One-on-one lessons tailored specifically to your individual goals and learning pace.",
+        "price": "$40/hour",
+        "features": [
+          "Customized curriculum",
+          "Flexible scheduling",
+          "Progress tracking",
+          "Specialized materials"
+        ]
+      }
+    ],
+    "ctaButton": "Learn More"
+  },
+  "testimonials": {
+    "heading": "What My Students Say",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Business Professional",
+        "image": "https://placehold.co/100x100/EBF4FF/4A90E2?text=SJ",
+        "text": "Jane's business English lessons have been invaluable for my career. My confidence in meetings and presentations has improved dramatically.",
+        "rating": 5
+      },
+      {
+        "name": "David Kim",
+        "role": "University Student",
+        "image": "https://placehold.co/100x100/EBF4FF/4A90E2?text=DK",
+        "text": "Thanks to Jane's exam preparation strategies, I achieved my target IELTS score. Her personalized approach made all the difference.",
+        "rating": 5
+      },
+      {
+        "name": "Maria Rodriguez",
+        "role": "High School Student",
+        "image": "https://placehold.co/100x100/EBF4FF/4A90E2?text=MR",
+        "text": "I've been taking conversation classes with Jane for six months, and my fluency has improved so much. She makes learning fun and engaging.",
+        "rating": 4
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "subheading": "Ready to start your English learning journey? Contact me for a free consultation.",
+    "email": "jane.doe@example.com",
+    "phone": "+62 123 4567 890",
+    "location": "Cibinong, West Java, Indonesia",
+    "availabilityHeading": "My Availability",
+    "availabilityText": "I offer flexible scheduling to accommodate students from different time zones. My typical teaching hours are:",
+    "hours": [
+      "Monday - Friday: 9:00 AM - 8:00 PM (WIB)",
+      "Saturday: 10:00 AM - 4:00 PM (WIB)",
+      "Sunday: Closed"
+    ],
+    "formHeading": "Send Me a Message",
+    "formFields": {
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Enter your full name"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter your email address"
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "What is this regarding?"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell me about your English learning goals..."
+      }
+    },
+    "submitButton": "Send Message",
+    "successMessage": "Thank you for your message! I'll get back to you soon.",
+    "errorMessage": "There was an error sending your message. Please try again."
+  },
+  "footer": {
+    "copyright": "© 2023 Jane Doe. All rights reserved.",
+    "links": [
+      { "text": "Privacy Policy", "href": "#privacy" },
+      { "text": "Terms of Service", "href": "#terms" }
+    ],
+    "socialMedia": [
+      { "platform": "Facebook", "icon": "Facebook", "href": "https://facebook.com" },
+      { "platform": "Instagram", "icon": "Instagram", "href": "https://instagram.com" },
+      { "platform": "LinkedIn", "icon": "Linkedin", "href": "https://linkedin.com" }
+    ]
+  }
+}
